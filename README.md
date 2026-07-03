@@ -6,10 +6,6 @@ once the booking is complete.
 
 Built with [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) v21.
 
-> 📌 Note: the screenshots below are mockups created to illustrate the conversation
-> flow (no real bot token/chat was used to capture them). Run the bot with your own
-> token to see the real thing.
-
 ## Features
 
 - Guided multi-step booking flow using a `ConversationHandler`: service → date → time → confirm
